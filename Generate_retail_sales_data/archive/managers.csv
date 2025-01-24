@@ -1,0 +1,101 @@
+,manager_id,manager_name,manager_surname,manager_position,manager_department
+0,431d52cc-b732-4140-bb91-9cb3b19b8b00,Paul,Carter,Regional Manager,Operations
+1,20ab1627-018d-4108-a12e-db8b722bc442,Michelle,Roy,Regional Manager,Logistics
+2,c70392a9-ad6a-4124-95ef-7dd38e479da3,Timothy,Rivera,Sales Manager,Online Sales
+3,406647d4-ca70-4116-bac0-591cd6d05853,Christina,Lopez,Sales Manager,Customer Service
+4,05e50b58-63b7-47df-ab96-339765832a0a,Melinda,Alvarez,Sales Manager,Logistics
+5,b4253fb6-348d-4682-8515-a8e1e87fdce0,Larry,Garcia,Area Supervisor,Logistics
+6,2ad4ad09-72e3-439e-9f10-2b89d7a0bdf0,Brandon,Scott,Area Supervisor,Logistics
+7,173af6e0-8d31-4d67-9cd6-47ebf6672568,Randy,Murphy,Sales Manager,Logistics
+8,7bbc2bcd-78d5-4dd9-9f48-bd220fc7d71d,Jeanette,Knight,Sales Manager,Operations
+9,3713ecbe-37a2-4e97-b763-fb049e8a6835,Timothy,Johnson,Sales Manager,Customer Service
+10,7eb3b23e-1af0-4c0a-aaa0-83c24d4158c6,Kaitlin,Hernandez,Store Manager,Logistics
+11,b1c447db-6cb6-4773-9153-6284fb6d00ad,Jennifer,Jackson,Store Manager,Operations
+12,d80a6474-cd03-4383-94e2-aff27b9bbd9c,Sarah,Chapman,Store Manager,Logistics
+13,84c92db5-e9c1-4b3a-9d55-bd7d8391a673,Diana,Harris,Sales Manager,Online Sales
+14,6365bd33-c23e-4189-bc06-0edaa7982c5f,Christine,Coleman,Store Manager,Operations
+15,335e2813-9b38-4b2b-bdb8-43c4637e5aa0,Roy,White,Area Supervisor,Customer Service
+16,c49e4376-0b92-4e0e-b519-f109ebd70ba9,Jacqueline,Duncan,Store Manager,Online Sales
+17,d83edd42-521c-46cd-a079-a0a32a550c95,Stephanie,Murray,Sales Manager,Operations
+18,1124c12e-3347-42ef-9e76-81831b9b5880,Daniel,Nolan,Regional Manager,Customer Service
+19,52fccd88-9ffd-4193-b211-9a9b622c02ba,Jacqueline,Guzman,Store Manager,Operations
+20,0d158ece-09e2-4657-a91e-308907021111,Gabriel,Jones,Regional Manager,Customer Service
+21,64f814a3-6b2c-402c-9725-bbfe7696b893,Joseph,Chavez,Store Manager,Operations
+22,a48cacfc-9ae7-4811-9ead-16b55ad78546,Mary,Crosby,Area Supervisor,Logistics
+23,7b0b0563-f73f-4fdb-a39c-5f0611ad62cb,Nancy,Molina,Store Manager,Operations
+24,b6d7bf71-535e-4679-ba42-b9a60df5cdb1,Felicia,Stewart,Store Manager,Logistics
+25,35286c71-b287-4a64-9278-705a515e5370,Andrew,Fernandez,Store Manager,Online Sales
+26,48397eec-d6bd-4ac0-ae28-40a86806447f,Jeffrey,Newman,Sales Manager,Customer Service
+27,a4e3bd34-54b0-4243-9a39-18af929e4a6b,Amber,Washington,Regional Manager,Logistics
+28,984cca9c-d0b6-4bf1-87de-b5b5c977681c,Robert,Ross,Area Supervisor,Operations
+29,12d90dc9-3432-4a02-a0b7-db99f988c9fc,Andrew,Nichols,Store Manager,Logistics
+30,3b9908d0-280f-4e09-a682-12fc888f52a6,Brandon,Aguirre,Regional Manager,Online Sales
+31,644166a5-0302-4fcc-b791-9293fc36c282,Sharon,Bradley,Sales Manager,Online Sales
+32,a4bf0242-ad59-4d3a-bcf0-891b7600ca1d,Samantha,Gomez,Regional Manager,Operations
+33,893aedc9-0a76-40aa-9a48-3005b1acde2b,Howard,Bradford,Regional Manager,Operations
+34,6b99fdff-3064-4984-9ea1-099b9d1055e2,Amanda,Crane,Area Supervisor,Customer Service
+35,839cd053-c34e-4c30-9951-dc34b04dc065,Robin,Huerta,Sales Manager,Operations
+36,30eeb763-8ff9-4910-a1e5-8518f9726ae1,Miguel,Morgan,Store Manager,Customer Service
+37,944435df-d204-40f2-a8a2-af0732dfff9b,Kendra,Jordan,Regional Manager,Logistics
+38,710d0f1c-fb24-403c-acab-546f61e9aaf0,Jordan,Hernandez,Regional Manager,Logistics
+39,7688a4e4-814c-41c2-b78a-448c7793455d,Natalie,Phillips,Regional Manager,Online Sales
+40,35706d34-66dd-4769-9310-cff8cde8d3a0,Steven,Peters,Sales Manager,Customer Service
+41,f4dbf100-8dfd-4554-9fd3-ab2772d3c635,Jake,Trujillo,Sales Manager,Online Sales
+42,d4cff6f1-791c-4d80-81a9-4e157a7b2871,Calvin,Freeman,Regional Manager,Logistics
+43,ae1c95ab-6768-4d59-bd60-bec474a10bb9,John,Warner,Regional Manager,Operations
+44,58155695-7fea-4d7e-b767-d122ff1d20c5,Jeanne,Jackson,Sales Manager,Logistics
+45,bbf35331-91fb-4332-b00c-e483dde1af79,Shawn,Perez,Store Manager,Online Sales
+46,420613e0-8667-439c-a8c3-7c923f668cdc,Mary,Howard,Sales Manager,Operations
+47,706a996e-eaa5-40ed-9b8e-b149ee8ed5a2,Paul,Rivas,Regional Manager,Customer Service
+48,960a426a-4b5f-4a39-a199-c5a2b6db1858,Dana,Webster,Store Manager,Online Sales
+49,b7e13b26-0d5c-4af0-89ee-858ee0c6c2c6,Janice,Kelly,Store Manager,Customer Service
+50,703ff228-ee9a-4111-bfed-32f76d5f4f52,Brandi,Goodwin,Store Manager,Online Sales
+51,7f261731-664c-4e64-8d4a-19c98e46ed75,Jason,Ortiz,Area Supervisor,Logistics
+52,addccf2e-76c8-4fd7-8dd0-ed60580ea9ef,Kelly,Collins,Regional Manager,Customer Service
+53,66cb5931-f281-40c2-8beb-fc1c277ad6f8,Edward,Nguyen,Regional Manager,Customer Service
+54,7500cd1d-51ca-4964-8e8c-f9093e8e41f7,Aaron,Jordan,Area Supervisor,Online Sales
+55,5b4abea2-e61d-4aaf-9cbc-e7dcd43840ed,Michael,Wise,Area Supervisor,Operations
+56,9f4f92ba-3262-4863-9333-08682a3dd2c4,Derrick,Alvarado,Sales Manager,Customer Service
+57,0d007b05-29ff-400a-a3ac-0247028a63ad,Melissa,Hart,Regional Manager,Customer Service
+58,d71eb67a-0457-45ac-be14-ffd8ccd685e6,Amanda,Lewis,Sales Manager,Customer Service
+59,934efdf0-0a51-4143-bedf-bcb9542a5088,Melissa,Anderson,Regional Manager,Online Sales
+60,6856cf5c-28fb-488d-aad4-1cba4d76e0ce,Julia,Tapia,Store Manager,Logistics
+61,b2bb4e44-ff77-41d0-93b8-8eb95f5a7b3a,Tonya,Thomas,Regional Manager,Logistics
+62,966fbbef-eb4e-459c-833c-be31e3d6a0ca,Sara,Jackson,Sales Manager,Logistics
+63,9fdfe177-8644-4518-a2f5-15255b54b2b1,Adrian,Gardner,Regional Manager,Customer Service
+64,b08ba462-ab8e-49d6-adc4-d21aebd19b0b,Lisa,Torres,Sales Manager,Logistics
+65,4213e708-4247-489e-9530-4fce015036c1,Brian,Bryant,Store Manager,Operations
+66,be2d6d30-0c76-4226-97ec-b7344d018909,Michael,Cook,Area Supervisor,Operations
+67,75a9595f-84e7-48e1-9abb-e4a09c482b5f,Amber,Hunt,Sales Manager,Operations
+68,98abf0fb-6ec7-404e-868f-9f1893e2488e,Victoria,Chaney,Regional Manager,Online Sales
+69,9e56611b-ab3d-4ed3-beff-b3598948949c,Sara,Gonzalez,Area Supervisor,Operations
+70,576c10db-9191-4a4e-83db-b31cbd76e6bd,Ricky,Graham,Store Manager,Logistics
+71,71a1172f-ba5b-47c0-b599-c5b13924a11f,Zachary,Yang,Area Supervisor,Customer Service
+72,0d4579f3-145c-4a6f-93b8-0c07fa7c31c3,Michael,Mckinney,Regional Manager,Logistics
+73,0526332d-e4d5-45aa-9326-304c75a89d64,Susan,Gibson,Sales Manager,Operations
+74,06f4600d-9f94-4dad-8b63-ecbfd21d3739,Michael,Mcdonald,Regional Manager,Operations
+75,544d8c65-879f-4756-980d-cc7412c25309,Mark,Farrell,Store Manager,Customer Service
+76,f9c490fb-1a72-40e2-aff1-b3022f4503ae,Danielle,Rubio,Store Manager,Logistics
+77,cb978e5c-2902-4476-aebd-874d0d0624a7,Jesus,Carter,Area Supervisor,Customer Service
+78,6c0b8564-85a9-4a02-8e5a-0a1c4a295c12,David,Williams,Regional Manager,Customer Service
+79,dc6c6e1f-5e18-4c77-9e95-2b06a4798f2a,Megan,Rogers,Area Supervisor,Operations
+80,e3bc2a17-58af-421f-bb4a-cfac37f9f646,Patricia,Duran,Regional Manager,Customer Service
+81,fbf9cc5b-2179-4185-87f7-e7aef42e38fc,Charles,Mercer,Store Manager,Online Sales
+82,662e76c2-ba2b-4b1f-bcaa-337432010b7d,Sara,Nichols,Regional Manager,Customer Service
+83,66ad67b7-88a6-40a7-bb37-efa204fdffd2,Patrick,Fitzpatrick,Regional Manager,Customer Service
+84,b457c73e-9c7e-4d5a-9bcf-dc9b41a227a5,John,Boyd,Area Supervisor,Online Sales
+85,569e93d7-9108-4436-b10d-a7b767e155eb,Jeremy,Hamilton,Store Manager,Customer Service
+86,a92ee5ed-7d01-4880-926f-cd440511c7ab,Emily,Patterson,Store Manager,Logistics
+87,02bf50f3-7500-41ba-a21f-430dde3f996f,Lindsay,Rubio,Regional Manager,Operations
+88,4de5d969-aa6a-4b1c-9296-c0df62306801,Jennifer,Rice,Store Manager,Logistics
+89,da81eac5-3fb1-4257-a864-451700ec7608,Angela,Garcia,Sales Manager,Logistics
+90,7f34fa44-2d51-499f-81d5-e3f8473dad09,Charles,Nunez,Store Manager,Logistics
+91,680b38a0-c7e5-473c-86ff-4dbcd372c5ce,Devin,Soto,Area Supervisor,Logistics
+92,94d825ba-7005-4e1b-996e-0479d3d98f54,Erin,Simmons,Area Supervisor,Online Sales
+93,99c28e2d-9d26-40c4-9674-36b9b088be70,Amy,Aguilar,Store Manager,Online Sales
+94,8ee7acdc-2a22-4fbb-b7f3-0e7fe578f9db,Stephanie,Aguirre,Sales Manager,Logistics
+95,5a4fc224-9b42-4470-a268-57061f953e3e,Michael,Schwartz,Regional Manager,Online Sales
+96,387f4578-3427-49e8-8d5c-82dd38f82e0f,Mariah,Hernandez,Regional Manager,Online Sales
+97,236e7e83-dcbc-4ddb-9928-c1ed7800d132,Brittany,Juarez,Regional Manager,Customer Service
+98,922ff058-7eed-4592-bfb6-d5953609ed16,Sean,Thompson,Sales Manager,Customer Service
+99,439b84c6-d774-45a1-ba36-b84774980bc3,Michael,Myers,Sales Manager,Online Sales
